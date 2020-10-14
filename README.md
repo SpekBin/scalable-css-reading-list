@@ -23,7 +23,6 @@ Newest on top, oldest on bottom. (A note for you outside the US: my dates are mo
 - [CSS and Scalability](http://mrmrs.io/writing/2016/03/24/scalable-css/), by Adam Morse (3/24/16)
 - [Can CSS Be Too Modular?](http://csswizardry.com/2015/03/can-css-be-too-modular/), by Harry Roberts (3/8/15)
 - [Side Effects in CSS](http://philipwalton.com/articles/side-effects-in-css/), by Philip Walton (3/3/15)
-- [Used and Abused -- CSS Inheritance and Our Misuse of the Cascade](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/?utm_source=CSS-Weekly&utm_campaign=Issue-127&utm_medium=RSS), by Micah Godbolt (8/25/14)
 - [Enduring CSS: writing style sheets for rapidly changing, long-lived projects](http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects), by Ben Frain (8/7/14)
 - [Challenging CSS Best Practices](http://www.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach/) -- suggesting a unique approach (all utility classes) the author calls Atomic CSS -- by Thierry Koblentz (10/21/13)
 - [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/), by Brad Frost (6/10/13) -- which isn't really about *CSS code*, exactly; but so many people have found it a valuable way to think about frontend component architecture that it fits in well with this list.
